@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea
+.pkl
+doc/1808.00158.en.ru.pdf
+src/Trash.ipynb
+data/LibriSpeech/
+data/train-clean-100.tar.gz
