@@ -1,4 +1,5 @@
-# SincNet
+# SincNet 
+### Задача с собеседований в VK
 Простая реализация новой архитектуры CNN, названная SincNet.
 <br>
 Подробно: [SincNet](https://arxiv.org/pdf/1808.00158.pdf)
